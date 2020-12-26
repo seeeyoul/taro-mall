@@ -30,4 +30,20 @@
 
 ![1](https://github.com/seeeyoul/taro-mall/blob/master/imgs/IMG_6993.PNG)
 
+* 管理端
+![1](https://github.com/seeeyoul/taro-mall/blob/master/imgs/QQ20201226-0.png)
+
+![1](https://github.com/seeeyoul/taro-mall/blob/master/imgs/QQ20201226-1.png)
+
+![1](https://github.com/seeeyoul/taro-mall/blob/master/imgs/QQ20201226-2.png)
+
+![1](https://github.com/seeeyoul/taro-mall/blob/master/imgs/QQ20201226-3.png)
+
+![1](https://github.com/seeeyoul/taro-mall/blob/master/imgs/QQ20201226-4.png)
+
+![1](https://github.com/seeeyoul/taro-mall/blob/master/imgs/QQ20201226-5.png)
+
+![1](https://github.com/seeeyoul/taro-mall/blob/master/imgs/QQ20201226-6.png)
+
+
 
